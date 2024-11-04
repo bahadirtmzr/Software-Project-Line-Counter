@@ -110,7 +110,7 @@ def count_lines_in_projects(base_dir):
 
     return project_data, total_lines
 
-# Ana fonksiyon
+
 def main():
     project_data, total_lines = count_lines_in_projects(BASE_DIR)
 
